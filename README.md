@@ -1,0 +1,1 @@
+This repository demonstrates a common assembly language error: accessing memory beyond array bounds. The bug involves attempting to read from and write to memory locations that are outside the allocated space for an array. This can lead to program crashes, data corruption, or other unpredictable behavior.  The solution showcases a safe implementation.
